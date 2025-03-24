@@ -39,6 +39,7 @@ class _MyHomePageState extends State<MyHomePage> {
   AdManagerBannerAd? _bannerAd;
   bool _isLoaded = false;
   final adUnitId = "ca-app-pub-8973398920717930/8068913895";
+  final adUnitId1 = "ca-app-pub-8973398920717930/8068913895";
 
   @override
   void initState() {
